@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Your Name]  
-🚀 **MERN Stack Developer | 1 Year Experience**  
+# 👋 Hi, I'm Kirti Tiwari 
+🚀 **MERN Stack Developeri | 1 Year Experience**  
 
 ## 🌟 About Me  
 I'm a passionate **MERN Stack Developer** with **1 year of experience** in **building scalable web applications** using:  
